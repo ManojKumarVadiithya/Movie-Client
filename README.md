@@ -13,16 +13,3 @@ Built with **React (frontend)**, **Spring Boot (backend)**, and **MongoDB (datab
 - **Other:** Git, GitHub
 
 ---
-
-## 📂 Folder Structure
-MOVIE-CLIENT/
-├── backend/
-│   ├── src/
-│   │   ├── main/
-│   ├── .gitignore
-│   └── pom.xml
-└── frontend/
-    ├── public/
-    ├── src/
-    │   ├── api/
-    │   └── components/
