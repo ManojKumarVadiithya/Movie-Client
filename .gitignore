@@ -1,0 +1,16 @@
+# Node (React frontend)
+frontend/node_modules/
+
+
+# Spring Boot (Java backend)
+backend/target/
+backend/.mvn/
+backend/mvnw
+backend/mvnw.cmd
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
