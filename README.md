@@ -39,7 +39,7 @@ movie-client/
 4. Configure MongoDB connection in `src/main/resources/application.properties`:
    ```properties
    spring.data.mongodb.database=${MONGO_DATABASE}
-spring.data.mongodb.uri=mongodb+srv://${MONGO_USER}:${MONGO_PASSWORD}@${MONGO_CLUSTER}
+    spring.data.mongodb.uri=mongodb+srv://${MONGO_USER}:${MONGO_PASSWORD}@${MONGO_CLUSTER}
    ```
     Replace variable like MONGO_DATABASE and others with Your actual values
    *(Update with your MongoDB Atlas URI if using cloud database.)*
