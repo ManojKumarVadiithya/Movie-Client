@@ -97,15 +97,10 @@ movie-client/
 
 ---
 
-## 📸 Demo Screenshots
-*(Add screenshots of your UI and APIs here)*
-
----
-
 ## 📜 License
 This project is licensed under the MIT License – feel free to use and modify.
 
 ---
 
-## 👨‍💻 Manoj Kumar Vadiithya
-**[Your Name](https://github.com/ManojKumarVadiithya)**
+## 👨‍💻 
+**[Manoj Kumar Vadiithya](https://github.com/ManojKumarVadiithya)**
